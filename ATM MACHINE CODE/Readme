@@ -1,0 +1,36 @@
+# ATM Machine Simulator (C Program)
+
+A simple console-based **ATM banking system** written in **C language**. Demonstrates basic banking operations with security features like PIN verification and transaction limits.
+
+## Features ✅
+- **PIN Authentication** - Default PIN: `1234`, maximum 2 wrong attempts [file:78]
+- **Secure Login** - Card blocked after failed attempts [file:78]
+- **Cash Withdrawal** - Enter amount and simulate dispensing [file:78]
+- **PIN Change** - Update your ATM PIN securely [file:78]
+- **Transaction Menu** - Clean switch-case interface [file:78]
+
+## How to Run
+
+**Default PIN: `1234`**
+
+## Sample Output
+
+## Code Structure [file:78]
+
+## Technologies
+- **C Language** (stdio.h, string.h) [file:78]
+- **Console Input/Output** (scanf/printf) [file:78]
+- **String Handling** (strcmp, strcpy) [file:78]
+
+## Improvements (Future)
+- Add balance checking
+- Transaction history
+- Multiple users
+- File-based PIN storage
+
+## Perfect For
+- **BCA/CS Students** - C programming project
+- **College Assignments**
+- **Interview Prep** - Basic C concepts
+
+**Compile → Run → Demo ready in 30 seconds!** 🚀
