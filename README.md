@@ -27,10 +27,5 @@ A simple console-based **ATM banking system** written in **C language**. Demonst
 - Multiple users
 - File-based PIN storage
 
-## Perfect For
-- **BCA/CS Students** - C programming project
-- **College Assignments**
-- **Interview Prep** - Basic C concepts
 
-**Compile → Run → Demo ready in 30 seconds!** 🚀
 
